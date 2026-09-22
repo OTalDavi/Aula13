@@ -196,3 +196,8 @@ Para POST e PUT, enviar o body no formato JSON.
 | POST   | `/livros`      | Criar livro     |
 | PUT    | `/livros/{id}` | Atualizar livro |
 | DELETE | `/livros/{id}` | Excluir livro   |
+
+<img width="1430" height="561" alt="image" src="https://github.com/user-attachments/assets/2f36caa8-68f7-43af-b44a-18b6d36b34c7" />
+
+<img width="1448" height="779" alt="image" src="https://github.com/user-attachments/assets/a6bb5a8d-9cca-4fe1-a232-9f6efb50626f" />
+
